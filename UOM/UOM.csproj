@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>UOM</PackageId>
+    <Version>0.1.0</Version>
+    <License>MIT</License>
+    <Authors>Gilvan Wanderley</Authors>
+    <Company>Balkony</Company>
+    <PackageDescription>Library that converts the unit values of different physical quantities</PackageDescription>
+    <Description>Unit Of Measurement (UOM) is a library that converts the unit values of different physical quantities</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>UOM</PackageTags>
+    <Title>Unit Of Measurement - UOM</Title>
+    <Summary>Unit Of Measurement (UOM) is a library that converts the unit values of different physical quantities</Summary>
+  </PropertyGroup>
+
+</Project>
